@@ -13,6 +13,7 @@ Student.........: Carlos Arias (Popeye)
 // Call external libraries
 import java.io.Serializable;
 import java.util.Date;
+
 public class cls_Persona implements Serializable {
     //Class properties, use some kind of types of values
     private int cedula;
