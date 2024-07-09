@@ -7,7 +7,7 @@ Course..........: ITI-221 - ProgramaciÃ³n I
 Document........: class_06 - functions.java
 Goals...........: Functions set to create synthetic data for an example database
 Professor.......: Jorge Ruiz (york)
-Student.........:
+Student.........: Carlos Arias (Popeye)
 ================================================================================================*/
 
 // Call external libraries
